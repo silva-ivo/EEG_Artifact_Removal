@@ -5,7 +5,7 @@ This repository contains the implementation of my master’s thesis project: a d
 
 Utils/ – Utility functions required for the implementation of the main scripts.
 
-train/-Srcipt that conatains the trainer.
+train/- Script that conatains the trainer.
 
 models/DAE_models.py – Contains all models used in the project, including exploratory architectures and different versions of the 1D SE-UNet with varying depths.
 
